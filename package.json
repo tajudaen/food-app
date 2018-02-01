@@ -1,0 +1,32 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "food delivery app",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "*",
+    "body-parser": "*",
+    "express": "*",
+    "mongodb": "*",
+    "morgan": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajud99n/food-app.git"
+  },
+  "author": "Giwa Tajudeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tajud99n/food-app/issues"
+  },
+  "homepage": "https://github.com/tajud99n/food-app#readme"
+}
